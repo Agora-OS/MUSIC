@@ -51,8 +51,8 @@ from core.decorators import register, language, handle_error, only_admins
 
 REPO = """
  **Music Player**
-- Repo: [Group](https://t.me/naan_1_kannadiga)
-- Owner: @agora_Professor
+- Repo: [Group](https://t.me/agora_spam_official)
+- Owner: @agoraswamy_professor
 """
 
 
